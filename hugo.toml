@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.faxtail.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Faxtail Blog'
 theme = 'beautifulhugo'
