@@ -1,7 +1,6 @@
 ---
 title: "The Importance of Fax in Today's Digital Age"
 date: 2023-06-03T13:48:33-07:00
-draft: true
 ---
 
 In the era of digital transformation, where communication is often synonymous with instant messaging and emails, the humble fax machine may seem like a relic of the past. However, despite the rapid evolution of technology, faxing continues to hold its ground, proving its relevance and importance even in today's digital age. This article will delve into the reasons behind the enduring need for faxing, using Faxtail, a modern online faxing solution, as a case study.

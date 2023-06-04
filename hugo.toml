@@ -1,4 +1,4 @@
 baseURL = 'https://blog.faxtail.com/'
 languageCode = 'en-us'
 title = 'Faxtail Blog'
-theme = 'beautifulhugo'
+#theme = 'congo'
