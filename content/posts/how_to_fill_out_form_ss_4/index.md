@@ -1,8 +1,11 @@
 ---
 title: "How to Fill Out Form SS-4"
 date: 2023-07-08T14:33:21-07:00
-draft: true
+draft: false
 ---
+
+![SS-4 Form](./ss4.png)
+
 The [SS-4 Form](https://www.irs.gov/pub/irs-pdf/fss4.pdf) is used by the United States Internal Revenue Service (IRS) to apply for an Employer Identification Number (EIN). As of my knowledge cutoff in September 2021, here is a step-by-step guide on how to fill out Form SS-4:
 
 1. **Line 1**: Write the legal name of the entity applying for the EIN. If you're a sole proprietor or individual, use your legal name as shown on your social security card. If you're an LLC, partnership, corporation, or other entity, write the legal name of the entity.
@@ -41,8 +44,6 @@ The [SS-4 Form](https://www.irs.gov/pub/irs-pdf/fss4.pdf) is used by the United 
 
 18. **Line 18**: If applicable, answer the question regarding state/local agencies.
 
-After you've completed the form, you can mail or fax it to the IRS using the appropriate address or fax number provided in the Form SS-4 instructions. 
+**After you've completed the form, you can mail or fax it to the IRS using the number 855-215-1627 (within the U.S.) or 304-707-9471 (outside the U.S.)**
 
 However, the IRS encourages you to apply for an EIN online if your principal business is located in the United States or U.S. Territories. The online application process is faster and you'll get your EIN immediately. 
-
-Please verify this information with the most recent guidance as IRS procedures and form updates may have changed post-September 2021.
