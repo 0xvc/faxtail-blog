@@ -1,10 +1,10 @@
 ---
-title: "Fax IRS Form 2253"
+title: "Fax IRS Form 2553"
 date: 2023-07-08T14:33:21-07:00
 draft: false
 ---
 
-![SS-4 Form](./ss4.png)
+![IRS Form 2553](./irs_form_2553.png)
 
 Filling out IRS Form 2553, also known as the "Election by a Small Business Corporation," allows your corporation or LLC to be treated as an S corporation for tax purposes.
 
@@ -111,6 +111,8 @@ For corporation whose principal business, office, or agency is located in:
 Connecticut, Delaware, District of Columbia, Georgia, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, West Virginia, Wisconsin 
 
 **Fax #: 855-887-7734**
+
 For corporation whose principal business, office, or agency is located in:
 Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Hawaii, Idaho, Iowa, Kansas, Louisiana, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, Wyoming
+
 **Fax #: 855-214-7520**
